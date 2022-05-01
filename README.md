@@ -1,4 +1,13 @@
 
+<div align="center">
+
+  <!-- Downloads -->
+  <a href="https://crates.io/crates/disk_log">
+    <img src="https://img.shields.io/crates/d/disk_log.svg?style=flat-square"
+      alt="Download" />
+  </a>
+</div>
+
 # disk_log
 
 
