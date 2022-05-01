@@ -6,7 +6,7 @@ authors = ["DanyalMhai@gmail.com"]
 readme = "README.md"
 description = "disk_log is a **High Throughout, NonBlocking** Disk-based logger"
 license = "Apache-2.0"
-keywords = ["Logger", "NonBlocking", "disk logger"]
+keywords = ["Logger", "NonBlocking", "disk_logger"]
 homepage   = "https://github.com/Rustixir/whitepool"
 repository = "https://github.com/Rustixir/whitepool"
 
