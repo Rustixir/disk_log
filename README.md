@@ -12,7 +12,7 @@ disk_log is a **High Throughout, NonBlocking** Disk-based logger
 
 
 * **Paging** - disk_log distribute logs records between pages/files
-  by total_page_size
+  by `total_page_size`
 
 
 * **Iterator** - provide asynchronous function `get_page` then 
