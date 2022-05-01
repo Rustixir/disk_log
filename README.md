@@ -24,8 +24,8 @@ disk_log is a **High Throughout, NonBlocking** Disk-based logger
 
 
 * **Technically** - disk_log inspired by **erlang disk_log**
-  that is a heavily used by erlang internally, by **mnesia database**
-  and **Logger** (Logger is production used Logger for Elixir) used 
+  that is a heavily used in erlang , by **mnesia database**
+  and **Logger** (Logger is production used Logger for Elixir) 
 
 
 
