@@ -1,0 +1,18 @@
+[package]
+name = "disk_log"
+version = "0.1.0"
+edition = "2021"
+authors = ["DanyalMhai@gmail.com"]
+readme = "README.md"
+description = "disk_log is a **High Throughout, NonBlocking** Disk-based logger"
+license = "Apache-2.0"
+keywords = ["Logger", "NonBlocking", "disk logger"]
+homepage   = "https://github.com/Rustixir/whitepool"
+repository = "https://github.com/Rustixir/whitepool"
+
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+simple_wal = "0.3.0"
+tokio = { version = "1.18.0", features = ["rt-multi-thread", "sync", "time"] }
