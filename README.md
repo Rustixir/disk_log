@@ -19,7 +19,7 @@ disk_log is a **High Throughout, NonBlocking** Disk-based logger
   can iterate whole page **(its safe for concurrent reading when disk_log write to it)**  
 
 
-* **High Concurrency** disk_log dont need to
+* **High Concurrency** disk_log don't need to
   Mutex/RwLock for sharing between threads, its complete safe
 
 
